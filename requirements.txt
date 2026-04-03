@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+langchain
+langchain-google-genai
+google-generativeai
+fpdf2
